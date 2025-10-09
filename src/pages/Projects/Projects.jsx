@@ -5,54 +5,54 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
-    title: "🍲 Recipe Book Web App",
+    title: "Dagic-frontEnd Web App ",
     description:
-      "A full-stack recipe book web application where users can browse, like, and manage various recipes. Built using React, Tailwind, and Firebase.",
+      "A front-end landing page dagic web where users can browse, like, and manage various type of presentarion. Built using React, Tailwind, and Vite.",
     src: "rock.jpg",
-    link: "https://i.postimg.cc/MZ55hcnD/Screenshot-2025-06-25-235143.png",
+    link: "https://i.postimg.cc/nzCVT31M/Screenshot-2025-10-08-112620.png",
     color: "#f97316",
-    githubLink: "https://github.com/AhsanHabibHamim/Recipe-Book-Client-Side",
-    liveLink: "https://recipe-book-39501.web.app",
+    githubLink: "https://github.com/noob-prachurjo/Dagic-frontEnd",
+    liveLink: "https://drive.google.com/file/d/1yyKow7GZvJ85CmVYQwdlt0QZZ-3Lc1zQ/view?usp=sharing",
   },
   {
-    title: "🌐 MultiLango - Learn Languages Online",
+    title: "🌐 ChillsBay - Enjoy & Chills Online",
     description:
-      "MultiLango is an online platform to help learners book tutors and enhance their language skills. Built with MERN stack, authentication, role-based dashboards, and Stripe integration.",
+      "ChillsBay is an online platform to help search club , partner and inprove their beautifull moment. Built with MERN stack, Functionality, role-based dashboards",
     src: "tree.jpg",
-    link: "https://i.postimg.cc/bJ7Z59QJ/Screenshot-2025-06-26-001055.png",
+    link: "https://i.postimg.cc/MKh650c8/Screenshot-2025-10-07-121546.png",
     color: "#3b82f6",
-    githubLink: "https://github.com/AhsanHabibHamim/MultiLango-Client-Side",
-    liveLink: "https://online-tutor-booking-46a7d.web.app/",
+    githubLink: "https://github.com/noob-prachurjo/Chills-Bay",
+    liveLink: "https://drive.google.com/file/d/1vVPOSxJmG-7zy6HeYJahWbFJc81ccA7j/view?usp=sharing",
   },
   {
-    title: "💡 Amar Bill Pay",
+    title: "💡 Dagic-frontEnd Web App",
     description:
-      "A utility bill payment solution enabling users to easily pay gas, water, and electricity bills online. Developed with Firebase auth and responsive design.",
+      "A front-end landing page dagic web where users can browse, like, and manage various type of presentarion. Built using React, Tailwind, and Vite.",
     src: "water.jpg",
-    link: "https://i.postimg.cc/fRqTFvsN/Screenshot-2025-06-26-001316.png",
+    link: "https://i.postimg.cc/nzCVT31M/Screenshot-2025-10-08-112620.png",
     color: "#22c55e",
-    githubLink: "https://github.com/AhsanHabibHamim/Utility-Bill-Pay",
-    liveLink: "https://amar-bill-pay.web.app/",
+    githubLink: "https://github.com/noob-prachurjo/Smart-shop-client",
+    liveLink: "",
   },
   {
-    title: "🧑‍🍳 MultiLango Server",
+    title: "🧑‍🍳 To-Do app",
     description:
-      "The backend server of MultiLango platform, built using Express.js, MongoDB, JWT, and REST API architecture.",
+    "A to-do list app is a digital organizer for your tasks. It helps you stay productive and remember deadlines with features like due dates, reminders, and cross-platform syncing.",
     src: "house.jpg",
-    link: "https://i.postimg.cc/bJ7Z59QJ/Screenshot-2025-06-26-001055.png",
+    link: "https://i.postimg.cc/QxzTTWmh/Screenshot-2025-10-09-224140.png",
     color: "#a855f7",
-    githubLink: "https://github.com/AhsanHabibHamim/MultiLango-Server-Side",
-    liveLink: "https://online-tutor-booking-46a7d.web.app/",
+    githubLink: "https://github.com/noob-prachurjo/js_todo-list",
+    liveLink: "https://noob-prachurjo.github.io/js_todo-list/",
   },
   {
     title: "📦 Recipe Book Server",
     description:
       "The server-side of Recipe Book App managing API endpoints, JWT-based authentication, and database operations using Node.js and MongoDB.",
     src: "rock.jpg",
-    link: "https://i.postimg.cc/MZ55hcnD/Screenshot-2025-06-25-235143.png",
+    link: "https://i.postimg.cc/GtnXhg2N/Screenshot-2025-10-09-170556.png",
     color: "#f43f5e",
-    githubLink: "https://github.com/AhsanHabibHamim/Recipe-Book-Server-Side",
-    liveLink: "https://recipe-book-39501.web.app",
+    githubLink: "https://github.com/noob-prachurjo/CSS-project-1",
+    liveLink: "https://noob-prachurjo.github.io/CSS-project-1/",
   }
 ];
 

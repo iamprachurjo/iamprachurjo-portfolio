@@ -57,23 +57,23 @@ const ExperienceSection = () => {
       icon: Network,
       title: "WordPress Developer",
       company: "Fiverr",
-      period: "2020 - 2023",
+      period: "2025",
       description:
         "Worked on developing and customizing WordPress websites for clients globally.",
     },
     {
       icon: Layers,
       title: "Web Desinger",
-      company: "Nation IT Limitted",
-      period: "2023 - 2024",
+      company: "Self Learner",
+      period: "2025",
       description:
         "Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs.",
     },
     {
       icon: Code2,
-      title: "Junior Frontend Developer",
-      company: "Vireta Dev",
-      period: "Internship",
+      title: "Junior Full Stack Developer",
+      company: "Self Learner",
+      period: "",
       description:
         "Contributed to developing JavaScript libraries and enhancing framework functionalities.",
     },

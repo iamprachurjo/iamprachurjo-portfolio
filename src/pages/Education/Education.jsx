@@ -13,21 +13,24 @@ const EducationSection = () => {
   const educationData = [
     {
       degree: "Secondary School Certificate (SSC)",
-      school: "TESL English Version School & College",
+      school: "Hazi Abdus Sattar High School, Sylhet",
       mascot: "📘",
-      year: "2023-2024",
-      achievements: ["GPA: 5.0", "Subject: Science"],
+      year: "2024-2025",
+      achievements: ["GPA: 4.28", "Subject: Science"],
       skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
       description:
         "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
     },
     {
-      degree: "Diploma in Engneering",
-      school: "Dhaka Polytechnic Institute",
+      degree: "Higher Secondary Certificate (HSC)",
+      school: "Shah Khurrom Degree College, Sylhet.",
       mascot: "📗",
-      year: "2024-2025",
-      achievements: ["Department: CST ( Computer Science & Technology)"],
-      skills: ["Computer Operating", "Coding", "IT", "Technology"],
+      year: "Expected Graduation: 2026",
+      achievements: ["Top 10 Finalist, MU Programming Olympiad, 2025"],
+      skills: [ "Analytical Thinking",
+    "Problem-Solving",
+    "Competitive Programming",
+      ],
       description:
         "Developed strong analytical and critical thinking skills through comprehensive study of Technology & Computer Sciences.",
     },

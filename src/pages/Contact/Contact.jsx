@@ -112,7 +112,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Email</h3>
-                    <p className="text-gray-400">coderahsan30.@gmail.com</p>
+                    <p className="text-gray-400">prachurjobarmon2008.@gmail.com</p>
                   </div>
                 </div>
 
@@ -122,7 +122,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Location</h3>
-                    <p className="text-gray-400">Dhaka, Bangladesh</p>
+                    <p className="text-gray-400">Sylhet, Bangladesh</p>
                   </div>
                 </div>
               </div>

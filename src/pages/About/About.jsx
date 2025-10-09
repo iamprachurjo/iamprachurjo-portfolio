@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/hero.jpg";
+import HeroImg from "@/assets/images/pho.png";
 
 
 export default function About() {
@@ -24,7 +24,7 @@ export default function About() {
 
             <div className="relative space-y-4">
               <p className="text-white">
-                Hello! I'm Ahsan Habib Hamim, a passionate web developer specializing
+                Hello! I'm Prachurjo Barmon, a passionate web developer specializing
                 in creating innovative web solutions and user-friendly
                 interfaces.{" "}
                 <span className="font-bold text-white">
@@ -52,7 +52,7 @@ export default function About() {
 
                   <div className="mt-6 space-y-3">
                     <cite className="block font-medium text-white">
-                      Ahsan Habib Hamim
+                      Prachurjo Barmon
                     </cite>
                   </div>
                 </blockquote>
