@@ -3,7 +3,6 @@ import {
   FaHome,
   FaLaptopCode,
   FaBriefcase,
-  FaGraduationCap,
   FaCode,
   FaEnvelope,
   FaBars,
@@ -15,8 +14,7 @@ export default function Header() {
   const navLinks = [
     { id: "hero", icon: FaHome, text: "Home" },
     { id: "skills", icon: FaCode, text: "Skills" },
-    { id: "experience", icon: FaBriefcase, text: "Experience" },
-    { id: "education", icon: FaGraduationCap, text: "Education" },
+    { id: "experience", icon: FaBriefcase, text: "Learning" },
     { id: "projects", icon: FaLaptopCode, text: "Projects" },
     { id: "contact", icon: FaEnvelope, text: "Contact" },
   ];

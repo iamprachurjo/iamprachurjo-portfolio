@@ -55,27 +55,27 @@ const ExperienceSection = () => {
   const experiences = [
     {
       icon: Network,
-      title: "WordPress Developer",
-      company: "Fiverr",
-      period: "2025",
+      title: " Full-Stack Development",
+      company: "MERN Stack",
+      period: "2025 – Present",
       description:
-        "Worked on developing and customizing WordPress websites for clients globally.",
+        "Building full-stack web applications with MongoDB, Express.js, React, and Node.js. Implementing REST APIs, CRUD operations, authentication, and database integration.",
     },
     {
       icon: Layers,
-      title: "Web Desinger",
-      company: "Self Learner",
-      period: "2025",
+      title: "Computer Science Student",
+      company: "Self-Learning",
+      period: "Ongoing",
       description:
-        "Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs.",
+        "Studying computer science fundamentals, programming concepts, data structures, algorithms, and problem-solving to build a strong foundation in software engineering.",
     },
     {
       icon: Code2,
-      title: "Junior Full Stack Developer",
-      company: "Self Learner",
-      period: "",
+      title: "Modern Web Development",
+      company: "Currently Learning",
+      period: "Ongoing",
       description:
-        "Contributed to developing JavaScript libraries and enhancing framework functionalities.",
+        "Exploring Next.js and TypeScript while learning SQL and PostgreSQL to develop scalable web applications and strengthen my database engineering skills.",
     },
   ];
 
@@ -109,7 +109,7 @@ const ExperienceSection = () => {
           <div className="flex flex-col items-center space-y-8 mb-20">
             <div className="relative">
               <h2 className="text-5xl md:text-7xl font-black text-transparent bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-center">
-                Professional Journey
+                Learning Journey
               </h2>
               <div className="absolute inset-0 -z-10 bg-gradient-to-r from-cyan-500/20 to-purple-500/20 blur-3xl rounded-full" />
             </div>

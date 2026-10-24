@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/pho.png";
+import photo from "../../assets/images/photo.jpeg";
 
 
 export default function About() {
@@ -13,7 +13,7 @@ export default function About() {
             <div className="relative mb-6 sm:mb-0">
               <div className="bg-linear-to-b  aspect-76/59 relative rounded-2xl p-px from-zinc-300 to-transparent">
                 <img
-                  src={HeroImg}
+                  src={photo}
                   className="rounded-[15px] h-30 shadow block"
                   alt="payments illustration"
                   width={500}

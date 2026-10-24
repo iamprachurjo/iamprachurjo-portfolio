@@ -6,13 +6,13 @@ import Projects from "./pages/Projects/Projects";
 import Header from "./pages/Header/Header";
 import Hero from "./pages/Hero/Hero";
 import Skills from "./pages/Skills/Skills";
-import Education from "./pages/Education/Education";
+
 
 // import { Route, Routes } from "react-router-dom";
 
 export default function App() {
-  // const [isOnePage, setIsOnePage] = useState(true); 
- 
+  // const [isOnePage, setIsOnePage] = useState(true);
+
 
   return (
     <>
@@ -20,7 +20,6 @@ export default function App() {
       <div id="hero"><Hero /></div>
       <div id="skills"><Skills /></div>
       <div id="experience"><Experience /></div>
-      <div id="education"><Education /></div>
       <div id="projects"><Projects /></div>
       <div id="contact"><Contact /></div>
     </>

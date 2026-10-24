@@ -5,24 +5,24 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
-    title: "Dagic-frontEnd Web App ",
+    title: "DocAppoint ",
     description:
-      "A front-end landing page dagic web where users can browse, like, and manage various type of presentarion. Built using React, Tailwind, and Vite.",
+      "Prescriptio enables patients to search for specialists, book appointment slots, and manage or cancel their bookings. It also features a doctor and admin portal where medical professionals can manage their availability, specialty profiles, and patient appointments. Built using React, Tailwind, and Vite.",
     src: "rock.jpg",
     link: "https://i.postimg.cc/nzCVT31M/Screenshot-2025-10-08-112620.png",
     color: "#f97316",
-    githubLink: "https://github.com/noob-prachurjo/Dagic-frontEnd",
-    liveLink: "https://drive.google.com/file/d/1yyKow7GZvJ85CmVYQwdlt0QZZ-3Lc1zQ/view?usp=sharing",
+    githubLink: "https://github.com/iamprachurjo/DocAppoint-Client",
+    liveLink: "https://prescripto-client-mu.vercel.app",
   },
   {
-    title: "🌐 ChillsBay - Enjoy & Chills Online",
+    title: "🌐 Neo-Mart",
     description:
-      "ChillsBay is an online platform to help search club , partner and inprove their beautifull moment. Built with MERN stack, Functionality, role-based dashboards",
+      "Neo-Mart is a full-featured, responsive second-hand marketplace web application built with Next.js (App Router) and React. It enables users to seamlessly browse, buy, and sell pre-owned items online.",
     src: "tree.jpg",
     link: "https://i.postimg.cc/MKh650c8/Screenshot-2025-10-07-121546.png",
     color: "#3b82f6",
-    githubLink: "https://github.com/noob-prachurjo/Chills-Bay",
-    liveLink: "https://drive.google.com/file/d/1vVPOSxJmG-7zy6HeYJahWbFJc81ccA7j/view?usp=sharing",
+    githubLink: "https://github.com/iamprachurjo/Neo-Mart",
+    liveLink: "https://neo-market-bd.vercel.app",
   },
   {
     title: "💡 Dagic-frontEnd Web App",
@@ -35,16 +35,6 @@ const projects = [
     liveLink: "",
   },
   {
-    title: "🧑‍🍳 To-Do app",
-    description:
-    "A to-do list app is a digital organizer for your tasks. It helps you stay productive and remember deadlines with features like due dates, reminders, and cross-platform syncing.",
-    src: "house.jpg",
-    link: "https://i.postimg.cc/QxzTTWmh/Screenshot-2025-10-09-224140.png",
-    color: "#a855f7",
-    githubLink: "https://github.com/noob-prachurjo/js_todo-list",
-    liveLink: "https://noob-prachurjo.github.io/js_todo-list/",
-  },
-  {
     title: "📦 Recipe Book Server",
     description:
       "The server-side of Recipe Book App managing API endpoints, JWT-based authentication, and database operations using Node.js and MongoDB.",
@@ -53,7 +43,7 @@ const projects = [
     color: "#f43f5e",
     githubLink: "https://github.com/noob-prachurjo/CSS-project-1",
     liveLink: "https://noob-prachurjo.github.io/CSS-project-1/",
-  }
+  },
 ];
 
 export default function Projects() {
