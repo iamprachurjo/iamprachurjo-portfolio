@@ -5,11 +5,11 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
-    title: "DocAppoint ",
+    title: "Prescriptio ",
     description:
       "Prescriptio enables patients to search for specialists, book appointment slots, and manage or cancel their bookings. It also features a doctor and admin portal where medical professionals can manage their availability, specialty profiles, and patient appointments. Built using React, Tailwind, and Vite.",
     src: "rock.jpg",
-    link: "https://i.postimg.cc/nzCVT31M/Screenshot-2025-10-08-112620.png",
+    link: "https://i.postimg.cc/h47mg9C2/Screenshot-2026-10-24-173509.png",
     color: "#f97316",
     githubLink: "https://github.com/iamprachurjo/DocAppoint-Client",
     liveLink: "https://prescripto-client-mu.vercel.app",
@@ -19,30 +19,30 @@ const projects = [
     description:
       "Neo-Mart is a full-featured, responsive second-hand marketplace web application built with Next.js (App Router) and React. It enables users to seamlessly browse, buy, and sell pre-owned items online.",
     src: "tree.jpg",
-    link: "https://i.postimg.cc/MKh650c8/Screenshot-2025-10-07-121546.png",
+    link: "https://i.postimg.cc/tTxKRSn7/Screenshot-2026-10-24-173613.png",
     color: "#3b82f6",
     githubLink: "https://github.com/iamprachurjo/Neo-Mart",
     liveLink: "https://neo-market-bd.vercel.app",
   },
   {
-    title: "💡 Dagic-frontEnd Web App",
+    title: "💡 Prescriptio",
     description:
-      "A front-end landing page dagic web where users can browse, like, and manage various type of presentarion. Built using React, Tailwind, and Vite.",
+      "Prescriptio enables patients to search for specialists, book appointment slots, and manage or cancel their bookings. It also features a doctor and admin portal where medical professionals can manage their availability, specialty profiles, and patient appointments. Built using React, Tailwind, and Vite.",
     src: "water.jpg",
-    link: "https://i.postimg.cc/nzCVT31M/Screenshot-2025-10-08-112620.png",
+    link: "https://i.postimg.cc/h47mg9C2/Screenshot-2026-10-24-173509.png",
     color: "#22c55e",
-    githubLink: "https://github.com/noob-prachurjo/Smart-shop-client",
-    liveLink: "",
+    githubLink: "https://github.com/iamprachurjo/DocAppoint-Server",
+    liveLink: "https://docappoint-server-omega.vercel.app",
   },
   {
-    title: "📦 Recipe Book Server",
+    title: "📦 Neo-Mart",
     description:
-      "The server-side of Recipe Book App managing API endpoints, JWT-based authentication, and database operations using Node.js and MongoDB.",
+      "Neo-Mart is a full-featured, responsive second-hand marketplace web application built with Next.js (App Router) and React. It enables users to seamlessly browse, buy, and sell pre-owned items online.",
     src: "rock.jpg",
-    link: "https://i.postimg.cc/GtnXhg2N/Screenshot-2025-10-09-170556.png",
+    link: "https://i.postimg.cc/tTxKRSn7/Screenshot-2026-10-24-173613.png",
     color: "#f43f5e",
-    githubLink: "https://github.com/noob-prachurjo/CSS-project-1",
-    liveLink: "https://noob-prachurjo.github.io/CSS-project-1/",
+    githubLink: "https://github.com/iamprachurjo/Neo-Mart-Server",
+    liveLink: "https://github.com/iamprachurjo/Neo-Mart-Server",
   },
 ];
 
