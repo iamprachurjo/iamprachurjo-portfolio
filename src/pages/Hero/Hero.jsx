@@ -60,7 +60,7 @@ const profile = {
     hardWorker: true,
     quickLearner: true,
     problemSolver: true,
-    yearsOfExperience: 4, 
+    yearsOfExperience: 4,
     hireable: function() {
         return (
             this.hardWorker &&
@@ -82,14 +82,14 @@ const profile = {
         0%, 100% { opacity: 0.1; }
         50% { opacity: 0.3; }
       }
-      
+
       @keyframes dotPulse {
         0%, 100% { opacity: 0.2; transform: scale(0.8); }
         50% { opacity: 0.5; transform: scale(1.2); }
       }
-      
+
       /* Media query for 1366x768 resolution */
-      @media screen and (width: 1366px) and (height: 768px), 
+      @media screen and (width: 1366px) and (height: 768px),
              screen and (width: 1367px) and (height: 768px),
              screen and (width: 1368px) and (height: 769px) {
         .hero {
@@ -185,7 +185,7 @@ const profile = {
                     I&apos;m
                     <span className="typing-effect gradient-text">
                       {" "}
-                        Prachurjo Barmon
+                      Prachurjo Barmon
                     </span>
                   </span>
                 </h1>
@@ -228,7 +228,7 @@ const profile = {
 
                 {/* Contact Button */}
                 <a
-                  href="#"
+                  href="/Resume.pdf"
                   className="group relative inline-flex items-center justify-center gap-3 p-0.5 rounded-xl bg-gradient-to-r from-gray-800 to-gray-700 transition-all duration-300 hover:scale-105 hover:shadow-[0_0_2rem_-0.5rem_#60A5FA]"
                 >
                   <span className="block w-full px-6 sm:px-8 py-3 sm:py-4 rounded-[11px] bg-gray-900 border border-gray-700/50 transition-all duration-300 group-hover:bg-gradient-to-r group-hover:from-gray-800 group-hover:to-gray-700">
