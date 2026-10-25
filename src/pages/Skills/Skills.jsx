@@ -92,10 +92,7 @@ const SkillsSection = () => {
           name: "CSS3",
           icon: <BsFileEarmarkCode className="w-4 h-4 text-[#1572B6]" />,
         },
-<<<<<<< HEAD
         { name: "Redux", icon: <SiRedux className="w-4 h-4 text-[#764ABC]" /> }
-=======
->>>>>>> d4cccf28157716a6cec22e2c105cb13ddf21cfc2
       ],
     },
     {
@@ -123,13 +120,13 @@ const SkillsSection = () => {
           name: "REST APIs",
           icon: <BsGrid1X2 className="w-4 h-4 text-[#FF6C37]" />,
         },
-<<<<<<< HEAD
-=======
+
+
         {
           name: "GraphQL",
           icon: <SiGraphql className="w-4 h-4 text-[#E10098]" />,
         },
->>>>>>> d4cccf28157716a6cec22e2c105cb13ddf21cfc2
+
       ],
     },
     {
@@ -185,11 +182,11 @@ const SkillsSection = () => {
           name: "Webpack",
           icon: <SiWebpack className="w-4 h-4 text-[#8DD6F9]" />,
         },
-<<<<<<< HEAD
 
-=======
+
+
         { name: "Redux", icon: <SiRedux className="w-4 h-4 text-[#764ABC]" /> },
->>>>>>> d4cccf28157716a6cec22e2c105cb13ddf21cfc2
+
         {
           name: "Firebase",
           icon: <SiFirebase className="w-4 h-4 text-[#FFCA28]" />,
@@ -200,7 +197,6 @@ const SkillsSection = () => {
     },
     {
       icon: Paintbrush,
-<<<<<<< HEAD
       title: "AI & Modern Tech",
       color: "text-yellow-400",
       skills: [
@@ -218,7 +214,12 @@ const SkillsSection = () => {
         },
         {
           name: "Prompt Engineering",
-=======
+          icon: <MdAnimation className="w-4 h-4 text-[#FF6D00]" />,
+        },
+      ],
+    },
+    {
+      icon: Paintbrush,
       title: "Creative Skills",
       color: "text-yellow-400",
       skills: [
@@ -236,7 +237,6 @@ const SkillsSection = () => {
         },
         {
           name: "Motion Graphics",
->>>>>>> d4cccf28157716a6cec22e2c105cb13ddf21cfc2
           icon: <MdAnimation className="w-4 h-4 text-[#FF6D00]" />,
         },
       ],
