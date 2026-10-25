@@ -42,33 +42,33 @@ const GridBackground = () => {
 
 export default function Hero() {
   const words = [
-    "Full-Stack Developer & UI/UX Enthusiast",
-    "JavaScript Developer & Wordpress Expert",
-    "Learning MARN Stack",
-    "Linux & GitHub for DevOps Enthusiast",
+    "Full-Stack Web Engineer",
+    "MERN Stack & Next.js Specialist",
+    "AI API & Workflow Integration Expert",
+    "Open Source & Tech Innovator",
   ];
 
   const [code] = useState(`
 const profile = {
-    name: 'Prachurjo Barmon',
-    title: 'Full-Stack Developer | Mern-Stack Developer | Problem Solver',
-    skills: [
-        'React', 'NextJS', 'Redux', 'Express',
-        'MySQL', 'MongoDB', 'Docker', 'AWS', 'TypeScript',
-        'GraphQL', 'Git', 'Linux', 'Discord Development'
-    ],
-    hardWorker: true,
+  name: 'Prachurjo Barmon',
+  role: 'Full-Stack Software Engineer',
+  stack: {
+    frontend: ['React.js', 'Next.js', 'TypeScript', 'Tailwind CSS'],
+    backend: ['Node.js', 'Express.js', 'MongoDB', 'PostgreSQL'],
+    tools: ['Docker', 'AWS', 'Git', 'Vercel']
+  },
+  aiIntegrations: ['Google Gemini API', 'OpenAI GPT-4', 'Prompt Engineering'],
+  traits: {
     quickLearner: true,
     problemSolver: true,
-    yearsOfExperience: 4,
-    hireable: function() {
-        return (
-            this.hardWorker &&
-            this.problemSolver &&
-            this.skills.length >= 5 &&
-            this.yearsOfExperience >= 2
-        );
-    }
+  },
+  hireable: function() {
+    return (
+      this.traits.hardWorker &&
+      this.traits.problemSolver &&
+      this.yearsOfExperience >= 2
+    );
+  }
 };
   `);
 
@@ -117,7 +117,7 @@ const profile = {
       if (isTargetResolution) {
         document.documentElement.style.setProperty(
           "--hero-padding-top",
-          "12rem"
+          "12rem",
         );
       } else {
         document.documentElement.style.setProperty("--hero-padding-top", "0");
@@ -173,7 +173,7 @@ const profile = {
               <div className="inline-flex items-center gap-2 px-3 sm:px-4 py-2 rounded-full bg-gray-800/50 backdrop-blur-sm border border-gray-700/50 mb-6 sm:mb-8 animate__animated animate__fadeInDown animate__delay-1s">
                 <div className="w-2 h-2 rounded-full bg-blue-400 animate-pulse"></div>
                 <span className="text-gray-300 text-xs sm:text-sm font-medium">
-                  Welcome to my universe
+                  Full-Stack & AI Integration Specialist
                 </span>
               </div>
 
@@ -206,8 +206,8 @@ const profile = {
               {/* Description */}
               <div className="relative mb-8 sm:mb-12 max-w-xl">
                 <p className="text-base sm:text-xl text-gray-300/90 leading-relaxed">
-                  MERN Stack Developer | Digital Marketer | ML Engineering |
-                  WordPress & SEO Expert | Tech Enthusiast
+                  MERN & Next.js Specialist | Scalable Web Apps & AI API
+                  Integrations
                 </p>
               </div>
 
